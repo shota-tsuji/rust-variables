@@ -35,3 +35,27 @@ path = "src/array-2.rs"
 [[bin]]
 name = "array-3"
 path = "src/array-3.rs"
+
+[[bin]]
+name = "function-1"
+path = "src/functions-1.rs"
+
+[[bin]]
+name = "function-2"
+path = "src/functions-2.rs"
+
+[[bin]]
+name = "function-3"
+path = "src/functions-3.rs"
+
+[[bin]]
+name = "expressions-1"
+path = "src/expressions-1.rs"
+
+[[bin]]
+name = "return-values-1"
+path = "src/return-values-1.rs"
+
+[[bin]]
+name = "return-values-2"
+path = "src/return-values-2.rs"
