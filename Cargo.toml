@@ -59,3 +59,43 @@ path = "src/return-values-1.rs"
 [[bin]]
 name = "return-values-2"
 path = "src/return-values-2.rs"
+
+[[bin]]
+name = "if-expressions-1"
+path = "src/if-expressions-1.rs"
+
+[[bin]]
+name = "if-expressions-2"
+path = "src/if-expressions-2.rs"
+
+[[bin]]
+name = "if-expressions-3"
+path = "src/if-expressions-3.rs"
+
+[[bin]]
+name = "if-expressions-4"
+path = "src/if-expressions-4.rs"
+
+[[bin]]
+name = "loops-loop-1"
+path = "src/loops-loop-1.rs"
+
+[[bin]]
+name = "loops-loop-2"
+path = "src/loops-loop-2.rs"
+
+[[bin]]
+name = "loops-while-1"
+path = "src/loops-while-1.rs"
+
+[[bin]]
+name = "loops-for-1"
+path = "src/loops-for-1.rs"
+
+[[bin]]
+name = "loops-for-2"
+path = "src/loops-for-2.rs"
+
+[[bin]]
+name = "loops-for-3"
+path = "src/loops-for-3.rs"
